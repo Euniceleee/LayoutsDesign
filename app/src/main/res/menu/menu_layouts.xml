@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Linear Layout"
+          android:id="@+id/linear"/>
+    <item android:title="Relative Layout"
+          android:id="@+id/relative"/>
+    <item android:title="Constraint Layout"
+          android:id="@+id/constraint"/>
+    <item android:title="Table Layout"
+        android:id="@+id/table"/>
+    <item android:title="Frame Layout"
+        android:id="@+id/frame"/>
+    <item android:title="Absolute Layout"
+        android:id="@+id/absolute"/>
+</menu>
